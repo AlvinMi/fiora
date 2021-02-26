@@ -13,7 +13,7 @@ fiora is an interesting chat application. It is developed based on node.js, mong
 
 The project started at [2015-11-04](https://github.com/yinxin630/chatroom-with-sails/commit/0a032372727550b8b4087f24ac299de03b677b9f)
 
-Online address: [https://fiora.suisuijiang.com/](https://fiora.suisuijiang.com/)
+Online address: [https://fiora.suisuijiang.com/](https://fiora.suisuijiang.com/)   
 Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/yinxin630/fiora-app)
 
 ## Functions
@@ -66,6 +66,7 @@ If you want to add functionality or fix bugs, please follow the process below:
 
 0. Fork this repository and clone the fork post to the local
 <<<<<<< HEAD
+<<<<<<< HEAD
 0. Installation dependencies `yarn install`
 0. Modify the code and confirm it is bug free
 0. Submit code, if eslint has reported error, please repair it and submit it again.
@@ -76,3 +77,9 @@ If you want to add functionality or fix bugs, please follow the process below:
 3. Submit code, if eslint has reported error, please repair it and submit it again.
 4. Create a pull request
 >>>>>>> 97d78d0 (Revert "pull from fiora")
+=======
+0. Installation dependencies `yarn install`
+0. Modify the code and confirm it is bug free
+0. Submit code, if eslint has reported error, please repair it and submit it again.
+0. Create a pull request
+>>>>>>> 7b7324c (revert(merge master): merge master remote)
