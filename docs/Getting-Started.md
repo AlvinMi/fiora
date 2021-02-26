@@ -27,6 +27,7 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
 
 ## Screenshot
 
+<<<<<<< HEAD
 <img src="https://github.com/yinxin630/fiora/raw/master/docs/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
 <img src="https://github.com/yinxin630/fiora/raw/master/docs/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
 
@@ -37,6 +38,18 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
 ## Change Log
 
 [See change log](./docs/CHANGELOG.md)
+=======
+<img src="https://github.com/yinxin630/fiora/raw/master/doc/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
+<img src="https://github.com/yinxin630/fiora/raw/master/doc/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
+
+## Install
+
+[See how to run Fiora](./doc/INSTALL.md)
+
+## Change Log
+
+[See change log](./doc/CHANGELOG.md)
+>>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website)
 
 ## Directory
 
@@ -45,7 +58,11 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
     |-- [client]                  // Client code
     |-- [config]                  // Config
     |-- [dist]                    // Packaging output directory
+<<<<<<< HEAD
     |-- [docs]                    // Document
+=======
+    |-- [doc]                     // Document
+>>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website)
     |-- [public]                  // Server static resources
     |-- [server]                  // Server code
     |-- [utils]                   // Util method
