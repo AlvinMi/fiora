@@ -27,14 +27,8 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
 
 ## Screenshot
 
-<<<<<<< HEAD:docs-website/docs/Getting-Start.md
 <img alt="PC screenshot" src={useBaseUrl('img/screenshots/screenshot-pc.png')} style={{'max-width':'800px'}} />
 <img alt="Mobile screenshot" src={useBaseUrl('img/screenshots/screenshot-phone.png')} style={{'max-height':'667px'}} />
-=======
-<<<<<<< HEAD
-<img src="https://github.com/yinxin630/fiora/raw/master/docs/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
-<img src="https://github.com/yinxin630/fiora/raw/master/docs/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
->>>>>>> 1faf464 (docs(create fiora-doc): create fiora-docs website):docs/Getting-Started.md
 
 ## Install
 
@@ -42,23 +36,7 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
 
 ## Change Log
 
-<<<<<<< HEAD:docs-website/docs/Getting-Start.md
 [See change log](./CHANGELOG.md)
-=======
-[See change log](./docs/CHANGELOG.md)
-=======
-<img src="https://github.com/yinxin630/fiora/raw/master/doc/screenshots/screenshot-pc.png" alt="PC" style="max-width:800px" />
-<img src="https://github.com/yinxin630/fiora/raw/master/doc/screenshots/screenshot-phone.png" alt="Phone" height="667" style="max-height:667px" />
-
-## Install
-
-[See how to run Fiora](./doc/INSTALL.md)
-
-## Change Log
-
-[See change log](./doc/CHANGELOG.md)
->>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website)
->>>>>>> 1faf464 (docs(create fiora-doc): create fiora-docs website):docs/Getting-Started.md
 
 ## Directory
 
@@ -67,11 +45,7 @@ Android / iOS app: [https://github.com/yinxin630/fiora-app](https://github.com/y
     |-- [client]                  // Client code
     |-- [config]                  // Config
     |-- [dist]                    // Packaging output directory
-<<<<<<< HEAD
     |-- [docs]                    // Document
-=======
-    |-- [doc]                     // Document
->>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website)
     |-- [public]                  // Server static resources
     |-- [server]                  // Server code
     |-- [utils]                   // Util method

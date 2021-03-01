@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD:docs-website/docs/API.md
 id: api
 title: API
 sidebar_label: API
-=======
-id: api-doc
-title: API-Doc
-sidebar_label: API-Doc
->>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website):docs/API-DOC.md
 ---
 
 # fiora 接口文档

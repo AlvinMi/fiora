@@ -1,20 +1,12 @@
 ---
-<<<<<<< HEAD:docs-website/docs/Getting-Start.ZH.md
 id: getting-start-zh
-=======
-id: getting-started-zh
->>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website):docs/Getting-Started.ZH.md
 title: 开始
 sidebar_label: 开始
 ---
 
 # Fiora
 
-<<<<<<< HEAD:docs-website/docs/Getting-Start.ZH.md
 语言: [English](./Getting-Start.md) | [简体中文](./Getting-Start.ZH.md)
-=======
-语言: [English](./Getting-Started.md) | [简体中文](./Getting-Started.ZH.md)
->>>>>>> 5101dc3 (docs(create fiora-doc): create fiora-docs website):docs/Getting-Started.ZH.md
 
 fiora 是一款有趣的聊天应用. 基于 node.js, mongodb, react 和 socket.io 等技术开发
 
